@@ -1,0 +1,23 @@
+to generate the exif info
+navigate to root (where index.html is)
+run
+
+exiftool -j -Model -LensModel -ISO -FNumber -ExposureTime -FocalLength -ext avif ./images > gallery-data.json
+
+Breakdown of the Flags
+-j: Formats the output as a clean JSON array (required by response.json() in your script).
+
+-Model -LensModel ...: Explicitly requests only these specific tags. This keeps your gallery-data.json file small and efficient.
+
+-ext avif: Tells ExifTool to only look for your new .avif files, ignoring other system files (like .DS_Store or hidden files).
+
+./images: The source folder containing your photos.
+
+> gallery-data.json: Saves the output into the file named gallery-data.json in your current directory (the Kimball folder).
+
+
+
+
+Python: 
+Open your terminal, navigate to your website's folder, and run python3 -m http.server 8000. 
+Then, open your browser and go to http://localhost:8000.

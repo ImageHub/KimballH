@@ -1,0 +1,81 @@
+[{
+  "SourceFile": "./images/Nash.avif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 50,
+  "FNumber": 3.4,
+  "ExposureTime": "1/160",
+  "FocalLength": "35.0 mm"
+},
+{
+  "SourceFile": "./images/Pontiac.avif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 800,
+  "FNumber": 9.5,
+  "ExposureTime": "1/60",
+  "FocalLength": "75.0 mm"
+},
+{
+  "SourceFile": "./images/Harley.avif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 800,
+  "FNumber": 3.4,
+  "ExposureTime": "1/1250",
+  "FocalLength": "42.0 mm"
+},
+{
+  "SourceFile": "./images/Indian.avif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 50,
+  "FNumber": 4.0,
+  "ExposureTime": "1/25",
+  "FocalLength": "50.0 mm"
+},
+{
+  "SourceFile": "./images/Bugatti.avif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 50,
+  "FNumber": 3.5,
+  "ExposureTime": "1/1000",
+  "FocalLength": "55.0 mm"
+},
+{
+  "SourceFile": "./images/Boxster.avif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E@75",
+  "ISO": 400,
+  "FNumber": 8.0,
+  "ExposureTime": "1/250",
+  "FocalLength": "75.0 mm"
+},
+{
+  "SourceFile": "./images/Plymouth.avif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 800,
+  "FNumber": 11.0,
+  "ExposureTime": "1/250",
+  "FocalLength": "35.0 mm"
+},
+{
+  "SourceFile": "./images/911.avif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 800,
+  "FNumber": 6.8,
+  "ExposureTime": "1/320",
+  "FocalLength": "35.0 mm"
+},
+{
+  "SourceFile": "./images/Studebaker.avif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 50,
+  "FNumber": 3.4,
+  "ExposureTime": "1/640",
+  "FocalLength": "35.0 mm"
+}]
