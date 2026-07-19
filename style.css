@@ -53,6 +53,12 @@ h1 { color: #ffffff; font-weight: 300; margin: 0; }
 }
 
 .controls button:hover { background: rgba(255, 255, 255, 0.2); }
+
+/* Custom navigation overrides */
+.prev, .next, .prev a, .next a {
+    color: #000000 !important;
+}
+
 .image-viewer img {
     max-width: 100%;    /* Never wider than the 3fr column */
     max-height: 100%;   /* Never taller than the viewport */

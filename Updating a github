@@ -1,0 +1,27 @@
+Updating a github
+
+To update your live website, you must "stage," "commit," and "push" your changes from your terminal. Git treats these as three distinct steps to ensure you have a record of what you changed.
+
+Run these three commands in your terminal, ensuring you are inside the Kimball folder:
+
+The Update Sequence
+Bash
+# 1. Stage the file (tells Git you want to include this specific file in the update)
+git add index.html
+
+# 2. Commit the change (saves the change to your local history with a description)
+git commit -m "Fix ISO metadata display in index.html"
+
+# 3. Push to GitHub (uploads your local changes to the remote repository)
+git push origin main
+
+
+What happens next?GitHub Receives the Data: Once you run git push, your code on GitHub.com will immediately reflect the corrected file.
+
+Automatic Rebuild: GitHub Pages detects the new commit automatically. It will trigger a "rebuild" process that takes roughly 30–60 seconds.
+
+Live Update: Your site at [https://imagehub.github.io/Kimball/](https://imagehub.github.io/Kimball/) will update to show the new data automatically.
+
+If you don’t see the change immediately, perform a hard refresh in your browser (Ctrl + F5 on Windows/Linux or Cmd + Shift + R on Mac) to clear the cached version of the old file.
+
+Note: If you also updated gallery-data.json, make sure to run git add gallery-data.json before the commit command as well.
