@@ -4,6 +4,8 @@ run
 
 exiftool -j -Model -LensModel -ISO -FNumber -ExposureTime -FocalLength -ext avif ./images > gallery-data.json
 
+exiftool -j -Model -LensModel -ISO -FNumber -ExposureTime -FocalLength -ext jpeg ./images > gallery-data.json
+
 Breakdown of the Flags
 -j: Formats the output as a clean JSON array (required by response.json() in your script).
 
