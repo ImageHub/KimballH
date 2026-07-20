@@ -22,6 +22,7 @@ Important: Large File Handling (Git LFS)Since you are working with photos (HEIF/
 	Track images: Run this inside the kimballH folder:
 	Bash 	git lfs track "*.jpg" "*.heic" "*.heif" "*.tif"
 		git add .gitattributes
+
 Continue with the git add . and git commit steps above.
 
 
