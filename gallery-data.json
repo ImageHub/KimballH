@@ -1,122 +1,5 @@
 [{
-  "SourceFile": "./images/B0000154.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 50,
-  "FNumber": 3.2,
-  "ExposureTime": "1/90",
-  "FocalLength": "50.0 mm"
-},
-{
-  "SourceFile": "./images/B0000115.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 100,
-  "FNumber": 3.5,
-  "ExposureTime": "1/400",
-  "FocalLength": "55.0 mm"
-},
-{
-  "SourceFile": "./images/B0000139.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 100,
-  "FNumber": 4.0,
-  "ExposureTime": "1/2000",
-  "FocalLength": "75.0 mm"
-},
-{
-  "SourceFile": "./images/B0000135.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 100,
-  "FNumber": 3.4,
-  "ExposureTime": "1/750",
-  "FocalLength": "55.0 mm"
-},
-{
-  "SourceFile": "./images/B0000134.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 100,
-  "FNumber": 11.0,
-  "ExposureTime": "1/90",
-  "FocalLength": "60.0 mm"
-},
-{
-  "SourceFile": "./images/Boxster.jpg",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E@75",
-  "ISO": 400,
-  "FNumber": 8.0,
-  "ExposureTime": "1/250",
-  "FocalLength": "75.0 mm"
-},
-{
-  "SourceFile": "./images/B0000109.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 50,
-  "FNumber": 4.8,
-  "ExposureTime": "1/45",
-  "FocalLength": "35.0 mm"
-},
-{
-  "SourceFile": "./images/B0000099.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 50,
-  "FNumber": 3.4,
-  "ExposureTime": "1/640",
-  "FocalLength": "35.0 mm"
-},
-{
-  "SourceFile": "./images/B0000133.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 100,
-  "FNumber": 11.0,
-  "ExposureTime": "1/80",
-  "FocalLength": "60.0 mm"
-},
-{
-  "SourceFile": "./images/B0000105.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 800,
-  "FNumber": 9.5,
-  "ExposureTime": "1/60",
-  "FocalLength": "75.0 mm"
-},
-{
-  "SourceFile": "./images/B0000152.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 50,
-  "FNumber": 4.0,
-  "ExposureTime": "1/160",
-  "FocalLength": "85.0 mm"
-},
-{
-  "SourceFile": "./images/B0000144.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 200,
-  "FNumber": 16.0,
-  "ExposureTime": "1/80",
-  "FocalLength": "40.0 mm"
-},
-{
-  "SourceFile": "./images/B0000113.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 100,
-  "FNumber": 9.5,
-  "ExposureTime": "1/60",
-  "FocalLength": "40.0 mm"
-},
-{
-  "SourceFile": "./images/B0000095.heif",
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000095.heif",
   "Model": "Hasselblad X2D II 100C",
   "LensModel": "XCD 35-100E",
   "ISO": 50,
@@ -125,79 +8,7 @@
   "FocalLength": "50.0 mm"
 },
 {
-  "SourceFile": "./images/B0000128.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 50,
-  "FNumber": 9.5,
-  "ExposureTime": "1/90",
-  "FocalLength": "45.0 mm"
-},
-{
-  "SourceFile": "./images/B0000145.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 50,
-  "FNumber": 3.4,
-  "ExposureTime": "1/500",
-  "FocalLength": "50.0 mm"
-},
-{
-  "SourceFile": "./images/B0000153.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 50,
-  "FNumber": 4.0,
-  "ExposureTime": "1/60",
-  "FocalLength": "100.0 mm"
-},
-{
-  "SourceFile": "./images/B0000104.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 800,
-  "FNumber": 6.8,
-  "ExposureTime": "1/320",
-  "FocalLength": "35.0 mm"
-},
-{
-  "SourceFile": "./images/B0000132.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 50,
-  "FNumber": 11.0,
-  "ExposureTime": "1/90",
-  "FocalLength": "60.0 mm"
-},
-{
-  "SourceFile": "./images/B0000108.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 800,
-  "FNumber": 4.0,
-  "ExposureTime": "1/60",
-  "FocalLength": "65.0 mm"
-},
-{
-  "SourceFile": "./images/B0000127.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 50,
-  "FNumber": 8.0,
-  "ExposureTime": "1/125",
-  "FocalLength": "60.0 mm"
-},
-{
-  "SourceFile": "./images/B0000131.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 100,
-  "FNumber": 11.0,
-  "ExposureTime": "1/250",
-  "FocalLength": "45.0 mm"
-},
-{
-  "SourceFile": "./images/B0000097.heif",
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000097.heif",
   "Model": "Hasselblad X2D II 100C",
   "LensModel": "XCD 35-100E",
   "ISO": 800,
@@ -206,115 +17,16 @@
   "FocalLength": "42.0 mm"
 },
 {
-  "SourceFile": "./images/B0000111.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 100,
-  "FNumber": 4.0,
-  "ExposureTime": "1/200",
-  "FocalLength": "40.0 mm"
-},
-{
-  "SourceFile": "./images/B0000146.heif",
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000099.heif",
   "Model": "Hasselblad X2D II 100C",
   "LensModel": "XCD 35-100E",
   "ISO": 50,
   "FNumber": 3.4,
-  "ExposureTime": "1/400",
+  "ExposureTime": "1/640",
   "FocalLength": "35.0 mm"
 },
 {
-  "SourceFile": "./images/B0000150.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 50,
-  "FNumber": 8.0,
-  "ExposureTime": "1/60",
-  "FocalLength": "55.0 mm"
-},
-{
-  "SourceFile": "./images/B0000107.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 800,
-  "FNumber": 6.8,
-  "ExposureTime": "1/125",
-  "FocalLength": "40.0 mm"
-},
-{
-  "SourceFile": "./images/B0000151.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 50,
-  "FNumber": 6.8,
-  "ExposureTime": "1/40",
-  "FocalLength": "55.0 mm"
-},
-{
-  "SourceFile": "./images/B0000147.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 50,
-  "FNumber": 3.4,
-  "ExposureTime": "1/400",
-  "FocalLength": "35.0 mm"
-},
-{
-  "SourceFile": "./images/B0000130.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 100,
-  "FNumber": 11.0,
-  "ExposureTime": "1/125",
-  "FocalLength": "45.0 mm"
-},
-{
-  "SourceFile": "./images/B0000117.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 100,
-  "FNumber": 6.8,
-  "ExposureTime": "1/90",
-  "FocalLength": "70.0 mm"
-},
-{
-  "SourceFile": "./images/B0000140.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 50,
-  "FNumber": 3.4,
-  "ExposureTime": "1/1000",
-  "FocalLength": "40.0 mm"
-},
-{
-  "SourceFile": "./images/B0000121.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 100,
-  "FNumber": 11.0,
-  "ExposureTime": "1/60",
-  "FocalLength": "42.0 mm"
-},
-{
-  "SourceFile": "./images/B0000137.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 100,
-  "FNumber": 4.0,
-  "ExposureTime": "1/400",
-  "FocalLength": "100.0 mm"
-},
-{
-  "SourceFile": "./images/B0000120.heif",
-  "Model": "Hasselblad X2D II 100C",
-  "LensModel": "XCD 35-100E",
-  "ISO": 200,
-  "FNumber": 6.8,
-  "ExposureTime": "1/100",
-  "FocalLength": "85.0 mm"
-},
-{
-  "SourceFile": "./images/B0000100.heif",
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000100.heif",
   "Model": "Hasselblad X2D II 100C",
   "LensModel": "XCD 35-100E",
   "ISO": 50,
@@ -323,11 +35,299 @@
   "FocalLength": "35.0 mm"
 },
 {
-  "SourceFile": "./images/B0000141.heif",
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000104.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 800,
+  "FNumber": 6.8,
+  "ExposureTime": "1/320",
+  "FocalLength": "35.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000105.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 800,
+  "FNumber": 9.5,
+  "ExposureTime": "1/60",
+  "FocalLength": "75.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000107.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 800,
+  "FNumber": 6.8,
+  "ExposureTime": "1/125",
+  "FocalLength": "40.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000108.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 800,
+  "FNumber": 4.0,
+  "ExposureTime": "1/60",
+  "FocalLength": "65.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000109.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 50,
+  "FNumber": 4.8,
+  "ExposureTime": "1/45",
+  "FocalLength": "35.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000111.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 100,
+  "FNumber": 4.0,
+  "ExposureTime": "1/200",
+  "FocalLength": "40.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000113.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 100,
+  "FNumber": 9.5,
+  "ExposureTime": "1/60",
+  "FocalLength": "40.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000115.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 100,
+  "FNumber": 3.5,
+  "ExposureTime": "1/400",
+  "FocalLength": "55.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000117.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 100,
+  "FNumber": 6.8,
+  "ExposureTime": "1/90",
+  "FocalLength": "70.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000120.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 200,
+  "FNumber": 6.8,
+  "ExposureTime": "1/100",
+  "FocalLength": "85.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000121.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 100,
+  "FNumber": 11.0,
+  "ExposureTime": "1/60",
+  "FocalLength": "42.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000127.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 50,
+  "FNumber": 8.0,
+  "ExposureTime": "1/125",
+  "FocalLength": "60.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000128.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 50,
+  "FNumber": 9.5,
+  "ExposureTime": "1/90",
+  "FocalLength": "45.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000130.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 100,
+  "FNumber": 11.0,
+  "ExposureTime": "1/125",
+  "FocalLength": "45.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000131.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 100,
+  "FNumber": 11.0,
+  "ExposureTime": "1/250",
+  "FocalLength": "45.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000132.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 50,
+  "FNumber": 11.0,
+  "ExposureTime": "1/90",
+  "FocalLength": "60.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000133.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 100,
+  "FNumber": 11.0,
+  "ExposureTime": "1/80",
+  "FocalLength": "60.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000134.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 100,
+  "FNumber": 11.0,
+  "ExposureTime": "1/90",
+  "FocalLength": "60.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000135.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 100,
+  "FNumber": 3.4,
+  "ExposureTime": "1/750",
+  "FocalLength": "55.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000137.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 100,
+  "FNumber": 4.0,
+  "ExposureTime": "1/400",
+  "FocalLength": "100.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000139.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 100,
+  "FNumber": 4.0,
+  "ExposureTime": "1/2000",
+  "FocalLength": "75.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000140.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 50,
+  "FNumber": 3.4,
+  "ExposureTime": "1/1000",
+  "FocalLength": "40.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000141.heif",
   "Model": "Hasselblad X2D II 100C",
   "LensModel": "XCD 35-100E",
   "ISO": 50,
   "FNumber": 3.5,
   "ExposureTime": "1/1000",
   "FocalLength": "55.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000144.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 200,
+  "FNumber": 16.0,
+  "ExposureTime": "1/80",
+  "FocalLength": "40.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000145.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 50,
+  "FNumber": 3.4,
+  "ExposureTime": "1/500",
+  "FocalLength": "50.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000146.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 50,
+  "FNumber": 3.4,
+  "ExposureTime": "1/400",
+  "FocalLength": "35.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000147.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 50,
+  "FNumber": 3.4,
+  "ExposureTime": "1/400",
+  "FocalLength": "35.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000150.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 50,
+  "FNumber": 8.0,
+  "ExposureTime": "1/60",
+  "FocalLength": "55.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000151.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 50,
+  "FNumber": 6.8,
+  "ExposureTime": "1/40",
+  "FocalLength": "55.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000152.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 50,
+  "FNumber": 4.0,
+  "ExposureTime": "1/160",
+  "FocalLength": "85.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000153.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 50,
+  "FNumber": 4.0,
+  "ExposureTime": "1/60",
+  "FocalLength": "100.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/B0000154.heif",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E",
+  "ISO": 50,
+  "FNumber": 3.2,
+  "ExposureTime": "1/90",
+  "FocalLength": "50.0 mm"
+},
+{
+  "SourceFile": "/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive/KimballHEIF2048/Boxster.jpg",
+  "Model": "Hasselblad X2D II 100C",
+  "LensModel": "XCD 35-100E@75",
+  "ISO": 400,
+  "FNumber": 8.0,
+  "ExposureTime": "1/250",
+  "FocalLength": "75.0 mm"
 }]

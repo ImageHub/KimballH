@@ -6,6 +6,19 @@ exiftool -j -Model -LensModel -ISO -FNumber -ExposureTime -FocalLength -ext avif
 
 exiftool -j -Model -LensModel -ISO -FNumber -ExposureTime -FocalLength -ext jpeg ./images > gallery-data.json
 
+
+If your files are on Google Drive , first navigate to the Google Drive directory
+
+cd '/Users/stefan/Library/CloudStorage/GoogleDrive-littlegreygiant@gmail.com/My Drive'
+Cd to the images folder
+Run the exif tool on everything inside of that folder (notice the /* at the end)
+ exiftool -j -Model -LensModel -ISO -FNumber -ExposureTime -FocalLength ~/Library/CloudStorage/GoogleDrive-*/My\ Drive/KimbalHEIF2048/* > gallery-data.json
+
+
+
+
+
+
 Breakdown of the Flags
 -j: Formats the output as a clean JSON array (required by response.json() in your script).
 
