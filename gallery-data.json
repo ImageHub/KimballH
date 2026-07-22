@@ -1,33 +1,6 @@
 [
   {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1hDBGOK31rl2WHvPjyW6wvWYpOnaqPrWO",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@35",
-    "ISO": 50,
-    "FNumber": 3.4,
-    "ExposureTime": "1/640",
-    "FocalLength": "35.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1q1Ug7os4F0O5DJ-GaWnTf32cBwU-m4-L",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@60",
-    "ISO": 100,
-    "FNumber": 11.0,
-    "ExposureTime": "1/80",
-    "FocalLength": "60.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1KjViS0mP_YKIchrIidzz7cs2yq_6HGNt",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@35",
-    "ISO": 50,
-    "FNumber": 4.8,
-    "ExposureTime": "1/45",
-    "FocalLength": "35.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1DWVWLyiKosUgNfS1_K1SFUq2xQK35g9U",
+    "SourceFile": "https://lh3.googleusercontent.com/d/1TXrtgIooP9UkUYALUXsxs15il3kyUDvg",
     "Model": "Hasselblad X2D II 100C",
     "LensModel": "XCD 35-100E@50",
     "ISO": 50,
@@ -36,259 +9,7 @@
     "FocalLength": "50.0 mm"
   },
   {
-    "SourceFile": "https://lh3.googleusercontent.com/d/169PN35SAZct_tLr9qFPXTLCKX1bS2VZM",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@75",
-    "ISO": 800,
-    "FNumber": 9.5,
-    "ExposureTime": "1/60",
-    "FocalLength": "75.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/17c8CuQBNFxJiiydmhKPfcbwCKfoAPh8o",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@40",
-    "ISO": 100,
-    "FNumber": 9.5,
-    "ExposureTime": "1/60",
-    "FocalLength": "40.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1IDmRMvPerqR66yDYopjhn9-STvCb4Hqb",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@40",
-    "ISO": 200,
-    "FNumber": 16.0,
-    "ExposureTime": "1/80",
-    "FocalLength": "40.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1DHYfS1drjasJ5YV5zWdn8kwh5WLs6ail",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@50",
-    "ISO": 50,
-    "FNumber": 3.4,
-    "ExposureTime": "1/500",
-    "FocalLength": "50.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1q7hOO-8VoF7fnFXvPvlTXDGyLZvRmyVk",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@35",
-    "ISO": 800,
-    "FNumber": 6.8,
-    "ExposureTime": "1/320",
-    "FocalLength": "35.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1lgqCagRlvtn8cdVJxrNVbAsrWxGTESeK",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@100",
-    "ISO": 50,
-    "FNumber": 4.0,
-    "ExposureTime": "1/60",
-    "FocalLength": "100.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1YDFeULLj9fPddhyDCLa00XZwRHtfvk1R",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@45",
-    "ISO": 50,
-    "FNumber": 9.5,
-    "ExposureTime": "1/90",
-    "FocalLength": "45.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1IXwwV_aJGHr3fvmAya0ZYwU5qw9TS9Or",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@65",
-    "ISO": 800,
-    "FNumber": 4.0,
-    "ExposureTime": "1/60",
-    "FocalLength": "65.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/12haQBWjq0tKeUuk2PENXE4f-zqu7G6nY",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@60",
-    "ISO": 50,
-    "FNumber": 11.0,
-    "ExposureTime": "1/90",
-    "FocalLength": "60.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1LpUZUwrnYmvHErW46NrE2cD83ot1VqOF",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@75",
-    "ISO": 100,
-    "FNumber": 4.0,
-    "ExposureTime": "1/2000",
-    "FocalLength": "75.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1MLkPJDzkNCDXakRabiqyeyDPDU9UaHPL",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@50",
-    "ISO": 50,
-    "FNumber": 3.2,
-    "ExposureTime": "1/90",
-    "FocalLength": "50.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1Oqky6mm9vPX3yMyheLzpsVHgIHWgpGqg",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@55",
-    "ISO": 100,
-    "FNumber": 3.5,
-    "ExposureTime": "1/400",
-    "FocalLength": "55.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1h211xyg8q2vjibYSWd-dpzOl2mzOQMel",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@55",
-    "ISO": 100,
-    "FNumber": 3.4,
-    "ExposureTime": "1/750",
-    "FocalLength": "55.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1uLm80v8LYMvqwYkynd-CWhqpqL438nJs",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@60",
-    "ISO": 100,
-    "FNumber": 11.0,
-    "ExposureTime": "1/90",
-    "FocalLength": "60.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1UmofT_2Z4AdQInDbJ9B72lCfAlYaRmsL",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@40",
-    "ISO": 50,
-    "FNumber": 3.4,
-    "ExposureTime": "1/1000",
-    "FocalLength": "40.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1SZIMlQidBrabG7lVEM4vMdzxzBfNQmJu",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@70",
-    "ISO": 100,
-    "FNumber": 6.8,
-    "ExposureTime": "1/90",
-    "FocalLength": "70.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1EG5F26pDLtT_bUXZ-Nw2mK4KqY4fb7w6",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@42",
-    "ISO": 100,
-    "FNumber": 11.0,
-    "ExposureTime": "1/60",
-    "FocalLength": "42.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/14YyLhXsAFdzu5Kzr9QDnCiBw92I2yx6j",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@100",
-    "ISO": 100,
-    "FNumber": 4.0,
-    "ExposureTime": "1/400",
-    "FocalLength": "100.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1rn9ZMGbGBL1OQUY4qISU6i12dkzhrVEk",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@85",
-    "ISO": 200,
-    "FNumber": 6.8,
-    "ExposureTime": "1/100",
-    "FocalLength": "85.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1AnMnZnqKM6zhqAdFC2uFUTj06krSnSAg",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@75",
-    "ISO": 400,
-    "FNumber": 8.0,
-    "ExposureTime": "1/250",
-    "FocalLength": "75.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1vWq6JmZLi7LGpx3nIirLqnglqLdasFk3",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@35",
-    "ISO": 50,
-    "FNumber": 3.4,
-    "ExposureTime": "1/160",
-    "FocalLength": "35.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1FGYm_gKtXNzif2SBD2Eue7ISwmRYTAvp",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@55",
-    "ISO": 50,
-    "FNumber": 3.5,
-    "ExposureTime": "1/1000",
-    "FocalLength": "55.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1aspq6F4cowiMkpDPdvxkbsMcrRZwi4I-",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@60",
-    "ISO": 50,
-    "FNumber": 8.0,
-    "ExposureTime": "1/125",
-    "FocalLength": "60.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/12Uzs4tmKriN3aVwyWESKmZW80QH5SkR4",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@45",
-    "ISO": 100,
-    "FNumber": 11.0,
-    "ExposureTime": "1/250",
-    "FocalLength": "45.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1kSVw6NzU8qUkpvgHNd5I-uNgTul8_cWV",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@35",
-    "ISO": 50,
-    "FNumber": 3.4,
-    "ExposureTime": "1/400",
-    "FocalLength": "35.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1LRSpg3RChXi98AwejZDC8Sb8hXRTBcPj",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@40",
-    "ISO": 100,
-    "FNumber": 4.0,
-    "ExposureTime": "1/200",
-    "FocalLength": "40.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/19PMIw-4GiwXwdsAI-MF2s0_2l-tp9B1O",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@40",
-    "ISO": 800,
-    "FNumber": 6.8,
-    "ExposureTime": "1/125",
-    "FocalLength": "40.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1m6H2eCW3QfM7X2BphH5-FOE6FPTKl2pE",
-    "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@55",
-    "ISO": 50,
-    "FNumber": 8.0,
-    "ExposureTime": "1/60",
-    "FocalLength": "55.0 mm"
-  },
-  {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1X31jXddpf8H45uzj77wQEHsH9h0yC715",
+    "SourceFile": "https://lh3.googleusercontent.com/d/1r-4MhQ4BslI9zhZnwYr0u6wqENAGplyH",
     "Model": "Hasselblad X2D II 100C",
     "LensModel": "XCD 35-100E@42",
     "ISO": 800,
@@ -297,16 +18,250 @@
     "FocalLength": "42.0 mm"
   },
   {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1-OapeChI4Us8p1i-4dYgip7UH95Ycv1t",
+    "SourceFile": "https://lh3.googleusercontent.com/d/1bKAzdzKOa2gzTrTlgNlIbHmLbFLEBpcL",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@35",
+    "ISO": 50,
+    "FNumber": 3.4,
+    "ExposureTime": "1/640",
+    "FocalLength": "35.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1JZT4FWl7CGDeVPbuqHUC3TpLiX4WfEdJ",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@35",
+    "ISO": 50,
+    "FNumber": 3.4,
+    "ExposureTime": "1/160",
+    "FocalLength": "35.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1tlk5MGO76c3h_xj7CGcX6RIKpf_WRlBv",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@35",
+    "ISO": 800,
+    "FNumber": 6.8,
+    "ExposureTime": "1/320",
+    "FocalLength": "35.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1qjOJ8RljufVo2nwaG-rlzGorFZoNXcMV",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@75",
+    "ISO": 800,
+    "FNumber": 9.5,
+    "ExposureTime": "1/60",
+    "FocalLength": "75.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1muYbmYSOKQz7PC5Atkivlqoz4V8ATu_v",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@40",
+    "ISO": 800,
+    "FNumber": 6.8,
+    "ExposureTime": "1/125",
+    "FocalLength": "40.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1-ldm8roXqGIAN3XH8ff5J_HRPREhe7ZC",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@65",
+    "ISO": 800,
+    "FNumber": 4.0,
+    "ExposureTime": "1/60",
+    "FocalLength": "65.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1M-SOmmA-gVvTRfp893tP6-r_UwttYrV_",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@35",
+    "ISO": 50,
+    "FNumber": 4.8,
+    "ExposureTime": "1/45",
+    "FocalLength": "35.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1Je0Yhm2Z1YYaHynK5xOgkdQK6VDHnK8D",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@40",
+    "ISO": 100,
+    "FNumber": 4.0,
+    "ExposureTime": "1/200",
+    "FocalLength": "40.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1wAqoxGt5sId1x49SfnCLMSIfAYk5LmyV",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@40",
+    "ISO": 100,
+    "FNumber": 9.5,
+    "ExposureTime": "1/60",
+    "FocalLength": "40.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1Lxvg7pE2tbv0ankUqIYdnR3Ygu5Qv27W",
     "Model": "Hasselblad X2D II 100C",
     "LensModel": "XCD 35-100E@55",
-    "ISO": 50,
-    "FNumber": 6.8,
-    "ExposureTime": "1/40",
+    "ISO": 100,
+    "FNumber": 3.5,
+    "ExposureTime": "1/400",
     "FocalLength": "55.0 mm"
   },
   {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1-bzosrFFH1pg-0qBtxneO8ktLShilNeK",
+    "SourceFile": "https://lh3.googleusercontent.com/d/139c9bPooznRIqQWbsLRAx2Us33TD20Ad",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@70",
+    "ISO": 100,
+    "FNumber": 6.8,
+    "ExposureTime": "1/90",
+    "FocalLength": "70.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1omXSdbXEEMDoyzDrDiP8UMDWBUUlO2oi",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@85",
+    "ISO": 200,
+    "FNumber": 6.8,
+    "ExposureTime": "1/100",
+    "FocalLength": "85.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1uAYhuWrXzETIjltYmO61Wqmkhu2DVH_p",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@42",
+    "ISO": 100,
+    "FNumber": 11.0,
+    "ExposureTime": "1/60",
+    "FocalLength": "42.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1FZ7DqDt4iQkrAH1ubzntpc1PvN9UH3nm",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@60",
+    "ISO": 50,
+    "FNumber": 8.0,
+    "ExposureTime": "1/125",
+    "FocalLength": "60.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1xYaZCWxBFux_S2ItZ4p9JFviJQU4Ryfw",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@45",
+    "ISO": 50,
+    "FNumber": 9.5,
+    "ExposureTime": "1/90",
+    "FocalLength": "45.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1Q17FYjUNxSWXktC1slTVbwz9yy1ywse1",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@45",
+    "ISO": 100,
+    "FNumber": 11.0,
+    "ExposureTime": "1/125",
+    "FocalLength": "45.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1MDFUf-_XRnVpiKUQPX2WnonApwrulo0O",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@45",
+    "ISO": 100,
+    "FNumber": 11.0,
+    "ExposureTime": "1/250",
+    "FocalLength": "45.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/13qrIlooGWhQPVDgknHp-fcoIqQUsYOtq",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@60",
+    "ISO": 50,
+    "FNumber": 11.0,
+    "ExposureTime": "1/90",
+    "FocalLength": "60.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1NZgb7Scv1T13bEOWwd8anDwgqvnz16xy",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@60",
+    "ISO": 100,
+    "FNumber": 11.0,
+    "ExposureTime": "1/80",
+    "FocalLength": "60.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1zCnmOk0U2sANXYiKQD-Tc8xYel2U2ub5",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@60",
+    "ISO": 100,
+    "FNumber": 11.0,
+    "ExposureTime": "1/90",
+    "FocalLength": "60.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1qe9Z__7tMpAdUKCVPCFcFhDoimYBiltX",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@55",
+    "ISO": 100,
+    "FNumber": 3.4,
+    "ExposureTime": "1/750",
+    "FocalLength": "55.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1RJE0lPlz61NOja5O0uv1s1Q8fqPctxaD",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@100",
+    "ISO": 100,
+    "FNumber": 4.0,
+    "ExposureTime": "1/400",
+    "FocalLength": "100.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1NGeWC6GqUwc-gkB2c4xat3mBJ_WMgQdJ",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@75",
+    "ISO": 100,
+    "FNumber": 4.0,
+    "ExposureTime": "1/2000",
+    "FocalLength": "75.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1eDaaDIEpRKc9BHyO_tqAh625bORD3Xqh",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@40",
+    "ISO": 50,
+    "FNumber": 3.4,
+    "ExposureTime": "1/1000",
+    "FocalLength": "40.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/18USrCY7ztVikOWrY4OWQQcD5ciRBnYh7",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@55",
+    "ISO": 50,
+    "FNumber": 3.5,
+    "ExposureTime": "1/1000",
+    "FocalLength": "55.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/18qho0hKx91BYQY3EMxu09JzJWdLJTxEh",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@40",
+    "ISO": 200,
+    "FNumber": 16.0,
+    "ExposureTime": "1/80",
+    "FocalLength": "40.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1IJoaIViqMtg_sw1CSRS_HG6Abj7njyNo",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@50",
+    "ISO": 50,
+    "FNumber": 3.4,
+    "ExposureTime": "1/500",
+    "FocalLength": "50.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1UNC7j-a_mJdGOogOpCrCyh2F2AozO8EH",
     "Model": "Hasselblad X2D II 100C",
     "LensModel": "XCD 35-100E@35",
     "ISO": 50,
@@ -315,12 +270,58 @@
     "FocalLength": "35.0 mm"
   },
   {
-    "SourceFile": "https://lh3.googleusercontent.com/d/1yDQbymUkgI4Ka57Drljq2kwlbDmTZkED",
+    "SourceFile": "https://lh3.googleusercontent.com/d/1CDYTP394SinWT2WeKWZTJYBm3k8WyrlN",
     "Model": "Hasselblad X2D II 100C",
-    "LensModel": "XCD 35-100E@45",
-    "ISO": 100,
-    "FNumber": 11.0,
-    "ExposureTime": "1/125",
-    "FocalLength": "45.0 mm"
+    "LensModel": "XCD 35-100E@35",
+    "ISO": 50,
+    "FNumber": 3.4,
+    "ExposureTime": "1/400",
+    "FocalLength": "35.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1XEHmfvPf_Cc01tRy6qth0m3dUSiz_CWq",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@55",
+    "ISO": 50,
+    "FNumber": 8.0,
+    "ExposureTime": "1/60",
+    "FocalLength": "55.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1g7Ho4ENTa_Q8OVigyanQb5oCkYTAo_S9",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@55",
+    "ISO": 50,
+    "FNumber": 6.8,
+    "ExposureTime": "1/40",
+    "FocalLength": "55.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1lLsQ2g4TE_UbrZXEeJuJEQnnX-yqzwAX",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@100",
+    "ISO": 50,
+    "FNumber": 4.0,
+    "ExposureTime": "1/60",
+    "FocalLength": "100.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1Jl0bmzjqoi4qRU5VB7p8X7S3xBZFR6KS",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@50",
+    "ISO": 50,
+    "FNumber": 3.2,
+    "ExposureTime": "1/90",
+    "FocalLength": "50.0 mm"
+  },
+  {
+    "SourceFile": "https://lh3.googleusercontent.com/d/1gkXsFdMpvHZaxbCfkSgMJEBeVyVFlO0n",
+    "Model": "Hasselblad X2D II 100C",
+    "LensModel": "XCD 35-100E@75",
+    "ISO": 400,
+    "FNumber": 8.0,
+    "ExposureTime": "1/250",
+    "FocalLength": "75.0 mm"
   }
+
 ]
